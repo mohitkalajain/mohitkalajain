@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 <!--
-**mohitkalajain/mohitkalajain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**mohitkalajain/Intro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- My name is **Mohit Kala**
+- I'm a **Full Stack Developer**
+- **Current Company:** [Sciffer Analytics Private Limited](https://www.sciffer.com)
+
+📫 **How to reach me**
+
+- **LinkedIn:** https://www.linkedin.com/in/mohitkalajain/
+
