@@ -29,9 +29,9 @@
  
   <a href="https://fb.com/mohit.kala3" target="blank"><img align="center" src="https://github.com/mohitkalajain/mohitkalajain/blob/main/facebook.svg" alt="nitram278" height="30" width="40" /></a>
  
-  <a href="https://dev.to/matrix278" target="blank"><img align="center" src="https://github.com/mohitkalajain/mohitkalajain/blob/main/dev-dot-to.svg" alt="matrix278" height="30" width="40" /></a>
+  <a href="https://dev.to/mohitkalajain" target="blank"><img align="center" src="https://github.com/mohitkalajain/mohitkalajain/blob/main/dev-dot-to.svg" alt="matrix278" height="30" width="40" /></a>
  
-  <a href="https://twitter.com/nitram278" target="blank"><img align="center" src="https://github.com/mohitkalajain/mohitkalajain/blob/main/twitter.svg" alt="nitram278" height="30" width="40" /></a>
+ 
  </p>
   <!--<a href="https://www.hackerrank.com/matrix27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="matrix27" height="30" width="40" /></a>
   <a href="https://codepen.io/matrix27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matrix27" height="30" width="40" /></a>
