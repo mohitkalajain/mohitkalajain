@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Azure, AWS, Microservices**
 
-- 👨‍💻 All of my Articles are available at [Blog](https://kalamohit.blogspot.com) |  [C-Sharp-Corner](https://www.c-sharpcorner.com/members/mohit-kala2) | [Medium](https://mohitkalajain.medium.com)
+- 👨‍💻 All of my Articles are available at [Blog](https://kalamohit.blogspot.com) |  [C-Sharp-Corner](https://www.c-sharpcorner.com/members/mohit-kala2) | [Medium](https://mohitkalajain.medium.com) | [Dev](https://dev.to/mohitkalajain)
 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/mohitkalajain), [facebook](https://www.facebook.com/mohit.kala3) or by [mail](mailto:mohitkala0@gmail.com)
 
