@@ -38,7 +38,7 @@
   <a href="https://dev.page/martin-sidorov" target="blank"><img align="center" src="https://dev.page/static/favicons/favicon-32x32.png" alt="matrix278" height="30" width="40" /></a>
   <a href="https://www.polywork.com/matrix278" target="blank"><img align="center" src="https://d26uz55awpmifc.cloudfront.net/assets/favicon/favicon-32x32-6313576cc7f656f174a3485f9f3c57bc046fe3e716be94221c44cb71320678e0.png" alt="matrix278" height="30" width="40" /></a>
   <a href="https://cord.co/candidate/account/u/candidate/57771" target="blank"><img align="center" src="https://assets.co-hire.com/react/p/cord-icon-180.png" alt="martin" height="30" width="40" /></a>
-</p>-->
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
