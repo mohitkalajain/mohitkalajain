@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- My name is **Mohit Kala**
+<!--- My name is **Mohit Kala**
 - I'm a **Full Stack Developer**
 - **Current Company:** [Sciffer Analytics Private Limited](https://www.sciffer.com)
 
