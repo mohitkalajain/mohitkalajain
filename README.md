@@ -62,26 +62,10 @@
   <a href="https://www.buymeacoffee.com/matrix278"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="matrix278" /></a>
 </p> -->
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Matrix278&theme=radical&show_icons=true&locale=en" alt="Martin's github stats" />
-  </a>
-  
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matrix278&theme=dark" alt="Streak Stats" />
-  </a>
-</div>
-
-<!--![Matrix](https://github.com/Matrix278/Matrix278/blob/master/assets/cmatrix.gif)-->
 
 
 
-
-
-
-
-
-
+<!--
 ### Hi there 👋
 
 <!--
@@ -113,4 +97,4 @@ Here are some ideas to get you started:
 📫 **How to reach me**
 
 - **LinkedIn:** https://www.linkedin.com/in/mohitkalajain/
-
+-->
