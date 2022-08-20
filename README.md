@@ -10,15 +10,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
 
-- 🔭 I’m currently working in **Wallester**
+- 🔭 I’m currently working in **Sciffer Analytics Private Limited**
 
-- 🌱 I’m currently learning **Go language, PostgreSQL, AWS, Microservices**
+- 🌱 I’m currently learning **Kubernetes, Azure, AWS, Microservices**
 
-- 🤝 I’m looking for help with any sorting algorithms on any programming language in [Algorithms project](https://github.com/Matrix278/algorithms)
+- 👨‍💻 All of my Articles are available at [https://kalamohit.blogspot.com/](https://kalamohit.blogspot.com/) and here)
 
-- 👨‍💻 All of my projects are available at [https://martinsidorov.tk/](https://martinsidorov.tk/) and here)
-
-- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/martin-s-8002a0157), [facebook](https://www.facebook.com/nitram278) or by [mail](mailto:martin.sidorov27@gmail.com)
+- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/mohitkalajain), [facebook](https://www.facebook.com/mohit.kala3) or by [mail](mailto:mohitkala0@gmail.com)
 
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/github-contribution-grid-snake.svg" alt="snake">
