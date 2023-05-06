@@ -7,6 +7,47 @@
  <a href="https://www.buymeacoffee.com/mohitkala0s" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
+
+
+
+
+
+
+Hi I am a sr software developer with 5.6 years of experience and a strong passion for building scalable and reliable web applications using the latest technologies and frameworks. My expertise includes:
+
+🚀 My Expertise
+
+☁ Cloud Technologies
+AWS, Azure
+
+☸Container / Orchestration
+Kubernetes, Docker, AKS, Container Registry
+
+💻 Cloud Tools
+Elastic Search, Serilog, Kibana, Azure Function
+
+ ♾ CI/CD Tools
+Azure DevOps, GitHub, GitHub Actions.
+
+🌐 Development
+ Microservices, .NET Core, Asp.Net MVC, Entity Framework, LINQ, React, HTML, CSS, JavaScript, JQuery
+
+🧊 Database
+Postgres SQL, Microsoft SQL, Cassandra, Elastic Search, Redis
+
+
+📅 Task Management
+Slack, Jira, Azure Boards, Trello 
+
+
+As a developer, I am committed to using technology to solve real-world problems and deliver value to customers. I have a particular interest in Microservices architecture, which has enabled me to design and implement complex systems that are highly modular, resilient, and easy to maintain.
+
+One of my strengths as a developer is my ability to communicate complex technical concepts in simple terms. I enjoy collaborating with people from diverse backgrounds and learning from others. I believe that teamwork is essential for success, and I always strive to contribute positively to any project I am working on.
+
+If you are looking for a highly skilled software developer who is passionate about delivering high-quality work and solving real-world problems, then I would love to hear from you. Let's connect and explore how we can work together to bring your ideas to life.
+
+
+
 <!-- <div align="center"> <img src="https://github.com/Matrix278/Matrix278/blob/master/assets/matrix-has-you.gif" alt="matrix278" /> </div> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
@@ -26,7 +67,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mohitkalajain" target="blank"><img align="center" src="https://github.com/mohitkalajain/mohitkalajain/blob/main/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
-   <a href="https://fb.com/mohit.kala3" target="blank"><img align="center" src="https://github.com/mohitkalajain/mohitkalajain/blob/main/facebook.svg" alt="nitram278" height="30" width="40" /></a>
    <a href="https://dev.to/mohitkalajain" target="blank"><img align="center" src="https://github.com/mohitkalajain/mohitkalajain/blob/main/dev-dot-to.svg" alt="matrix278" height="30" width="40" /></a>
   <!--<a href="https://www.hackerrank.com/matrix27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="matrix27" height="30" width="40" /></a>
   <a href="https://codepen.io/matrix27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matrix27" height="30" width="40" /></a>
@@ -62,38 +102,3 @@
 </p> -->
 
 
-
-
-<!--
-### Hi there 👋
-
-<!--
-**mohitkalajain/Intro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--- My name is **Mohit Kala**
-- I'm a **Full Stack Developer**
-- **Current Company:** [Sciffer Analytics Private Limited](https://www.sciffer.com)
-
-:writing_hand: **My Recent Articles**
-
-- [Web API Versioning](https://www.c-sharpcorner.com/article/web-api-versioning/) 
-- [Useful Git commands for common tasks](https://mohitkalajain.medium.com/useful-git-commands-for-common-tasks-5b73f4b5769f)
-- [React Introduction](https://mohitkalajain.medium.com/react-introduction-181a6a8e8945)
-- [C# Understanding Encapsulation And Abstraction](https://mohitkalajain.medium.com/understanding-encapsulation-and-abstraction-a4223c8c82ee)
-
-
-
-📫 **How to reach me**
-
-- **LinkedIn:** https://www.linkedin.com/in/mohitkalajain/
--->
