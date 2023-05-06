@@ -58,7 +58,7 @@ If you are looking for a highly skilled software developer who is passionate abo
 
 - 👨‍💻 All of my Articles are available at [Blog](https://kalamohit.blogspot.com) |  [C-Sharp-Corner](https://www.c-sharpcorner.com/members/mohit-kala2) | [Medium](https://mohitkalajain.medium.com) | [Dev](https://dev.to/mohitkalajain)
 
-- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/mohitkalajain), [facebook](https://www.facebook.com/mohit.kala3) or by [mail](mailto:mohitkala0@gmail.com)
+- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/mohitkalajain)  or by [mail](mailto:mohitkala0@gmail.com)
 
 <p align="center">
   <img src="https://github.com/mohitkalajain/mohitkalajain/blob/main/github-contribution-grid-snake.svg" alt="snake">
