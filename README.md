@@ -13,7 +13,7 @@
 
 
 
-Hi I am a sr software developer with 5.6 years of experience and a strong passion for building scalable and reliable web applications using the latest technologies and frameworks. My expertise includes:
+Hi I am a sr software developer with 6 years of experience and a strong passion for building scalable and reliable web applications using the latest technologies and frameworks. My expertise includes:
 
 🚀 My Expertise
 
