@@ -18,16 +18,16 @@ Hi I am a sr software developer with 6 years of experience and a strong passion 
 🚀 My Expertise
 
 ☁ Cloud Technologies
-AWS, Azure
+Azure
 
 ☸Container / Orchestration
-Kubernetes, Docker, AKS, Container Registry
+Kubernetes, Docker,Container Registry
 
 💻 Cloud Tools
 Elastic Search, Serilog, Kibana, Azure Function
 
  ♾ CI/CD Tools
-Azure DevOps, GitHub, GitHub Actions.
+Azure DevOps, GitHub
 
 🌐 Development
  Microservices, .NET Core, Asp.Net MVC, Entity Framework, LINQ, React, HTML, CSS, JavaScript, JQuery
